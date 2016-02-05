@@ -21,7 +21,6 @@ Academic(this, "C2", 34, "Sci2", 320, 200, 28, 150, 450, 1000, 1200, 1400);
 Academic(this, "MC", 37, "Math", 350, 200, 35, 175, 500, 1100, 1300, 1500);
 Academic(this, "DC", 39, "Math", 400, 200, 50, 200, 600, 1400, 1700, 2000);
 
-
 Residence(this, "MKV", 5);
 Residence(this, "UWP", 15);
 Residence(this, "V1", 25);
