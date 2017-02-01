@@ -10,7 +10,7 @@
    - will die when crush on wall if "$mode" == 'false'
  - Block:
   - Size:
-   - 10x10 pixel
+    10x10 pixel
   - Color:
    - Black: Obstacles
    - Red: Fruit
