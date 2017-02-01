@@ -9,7 +9,7 @@ A typical turn should be played as follows:
 	• When the player cannot roll, they can finish their turn.
 	• At any time when a player must pay more money than they currently have, they have the option to drop out (declare bankruptcy) or attempt to trade, mortgage buildings and sell improvements to gather the required money.
 
-3 Command Interpreter
+3.	Command Interpreter
 Initially, the game will demand the player enter the number of players, followed by the name of each player and the character that will represent the player on the board. Each player starts with 1500 money. Play will then continue in the way described below or until one player remains.
 	The following commands can be supplied to your command interpreter:
 	• roll: if the player can roll, the player rolls two dice, moves the sum of the two dice and takes action on the square they landed on.
