@@ -1,19 +1,20 @@
 ## Description:
  - Game take 0-4 command line arguments
   - 1st - FPS (1-100)
-   - frame per second "$fps"
+    - frame per second "$fps"
   - 2nd - SPEED (1-10)
-   - move "$speed" block per second
+    - move "$speed" block per second
   - 3rd - DIFFICULTY (1-10)
-   - generate "$difficulty" obstacles each time eat fruit
+    - generate "$difficulty" obstacles each time eat fruit
   - 4th - Cross Screen Mode (true/false)
-   - will die when crush on wall if "$mode" == 'false'
+    - will die when crush on wall if "$mode" == 'false'
  - Block:
-  - Size: 10x10 pixel
+  - Size:
+    - 10x10 pixel
   - Color: 
-  Black: Obstacles
-  Red: Fruit
-  Green: Snake
+    - Black: Obstacles
+    - Red: Fruit
+    - Green: Snake
  - Ex ./snake 60 10 5 false
 
 ## Control:
