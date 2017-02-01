@@ -9,12 +9,11 @@
   - 4th - Cross Screen Mode (true/false)
    - will die when crush on wall if "$mode" == 'false'
  - Block:
-  - Size:
-    10x10 pixel
-  - Color:
-   - Black: Obstacles
-   - Red: Fruit
-   - Green: Snake
+  - Size: 10x10 pixel
+  - Color: 
+  Black: Obstacles
+  Red: Fruit
+  Green: Snake
  - Ex ./snake 60 10 5 false
 
 ## Control:
